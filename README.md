@@ -1,2 +1,3 @@
 # aimspact.github.io
-AIMSPACT - Advanced Information Management System for Prospective Impact
+AI-Integrated Managed Solutions
+Engineering Resilient Architectures for Programming, Architecture, & Cloud Transformatio
